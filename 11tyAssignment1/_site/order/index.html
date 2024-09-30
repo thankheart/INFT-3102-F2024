@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Products</title>
+    <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Order Products</h1>
+        <nav>
+            <ul>
+                <li><a href="/home">Home</a></li>
+                <li><a href="/about/">About</a></li>
+                <li><a href="/products/">Products</a></li>
+                <li><a href="/pick-your-own/">Pick Your Own</a></li>
+                <li><a href="/events/">Events</a></li>
+                <li><a href="/contact/">Contact</a></li> 
+                <li><a href="/order/">Order</a></li>                  
+            </ul>           
+        </nav>
+    </header>
+    
+    <main>
+        
+<div class="contact-header">
+    <h1>Order Fresh Organic Produce from Our Farm!</h1>
+    <p>Email: <a href="mailto:organicfarm@example.com">organicfarm@example.com</a></p>
+    <p>Phone: <a href="tel:1235551004">123-555-1004</a></p>
+</div>
+
+<div class="container">
+    <form action="/submit_order.php">
+        <h4>Order Form</h4>
+        <label for="orderName">Full Name</label>
+        <input type="text" id="orderName" name="order_name" placeholder="Your name..." required>
+
+        <label for="orderEmail">Email</label>
+        <input type="email" id="orderEmail" name="order_email" placeholder="Your email..." required>
+
+        <label for="product">Select Product</label>
+        <select id="product" name="product" required>
+            <option value="organic_carrots">Organic Carrots</option>
+            <option value="free_range_eggs">Free-Range Eggs</option>
+            <option value="organic_kale">Organic Kale</option>
+            <option value="organic_tomatoes">Organic Tomatoes</option>
+            <option value="raw_honey">Raw Honey</option>
+            <option value="organic_potatoes">Organic Potatoes</option>
+            <option value="organic_spinach">Organic Spinach</option>
+            <option value="grass_fed_beef">Grass-Fed Beef</option>
+            <option value="organic_strawberries">Organic Strawberries</option>
+            <option value="organic_zucchini">Organic Zucchini</option>
+            <option value="organic_bell_peppers">Organic Bell Peppers</option>
+            <option value="whole_wheat_bread">Whole Wheat Bread</option>
+            <option value="organic_apples">Organic Apples</option>
+            <option value="organic_broccoli">Organic Broccoli</option>
+            <option value="herbal_tea_blend">Herbal Tea Blend</option>
+        </select>
+
+        <label for="quantity">Quantity</label>
+        <input type="number" id="quantity" name="quantity" placeholder="Enter quantity..." required> <br><br>
+
+        <label for="delivery">Delivery Address</label>
+        <textarea id="delivery" name="delivery_address" placeholder="Enter your delivery address..." style="height:100px" required></textarea>
+
+        <input type="submit" value="Place Order">
+    </form>
+</div>
+
+
+
+
+    </main>
+    
+
+    <footer>
+        <p>&copy; 2024 Jung's 11ty Project</p>
+    </footer>
+</body>
+</html>
+
+

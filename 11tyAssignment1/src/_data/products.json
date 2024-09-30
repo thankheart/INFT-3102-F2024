@@ -1,0 +1,124 @@
+{
+    "products": [
+    {
+        "title": "Organic Carrots",
+        "description": "Freshly harvested organic carrots, rich in vitamins and minerals.",
+        "price": "$3.50 per lb",
+        "link": "https://www.jessicagavin.com/carrot-benefits-types/",
+        "image": "/assets/images/carrot.jpg",
+        "slug": "organic-carrots"
+    },
+    {
+        "title": "Free-Range Eggs",
+        "description": "Eggs from free-range chickens, produced with care.",
+        "price": "$5.00 per dozen",
+        "link": "https://yourfarmwebsite.com/products/eggs",
+        "image": "/assets/images/egg.jpg",
+        "slug": "free-range-eggs"
+    },
+    {
+        "title": "Organic Kale",
+        "description": "Crisp and nutritious organic kale, perfect for salads or smoothies.",
+        "price": "$4.00 per bunch",
+        "link": "https://yourfarmwebsite.com/products/kale",
+        "image": "/assets/images/kale.jpg",
+        "slug": "organic-kale"
+    },
+    {
+        "title": "Organic Tomatoes",
+        "description": "Juicy organic tomatoes, perfect for cooking or fresh salads.",
+        "price": "$2.50 per lb",
+        "link": "https://yourfarmwebsite.com/products/tomatoes",
+        "image": "/assets/images/tomato.jpg",
+        "slug": "organic-tomatoes"
+    },
+    {
+        "title": "Raw Honey",
+        "description": "100% raw honey, harvested locally from our farm's bees.",
+        "price": "$10.00 per jar",
+        "link": "https://yourfarmwebsite.com/products/honey",
+        "image": "/assets/images/honey.jpg",
+        "slug": "raw-honey"
+    },
+    {
+        "title": "Organic Potatoes",
+        "description": "Versatile organic potatoes, great for roasting, mashing, or frying.",
+        "price": "$1.80 per lb",
+        "link": "https://yourfarmwebsite.com/products/potatoes",
+        "image": "/assets/images/potato.jpg",
+        "slug": "organic-potatoes"
+    },
+    {
+        "title": "Organic Spinach",
+        "description": "Fresh organic spinach, rich in iron and other essential nutrients.",
+        "price": "$3.00 per bunch",
+        "link": "https://yourfarmwebsite.com/products/spinach",
+        "image": "/assets/images/spinach.jpg",
+        "slug": "organic-spinach"
+    },
+    {
+        "title": "Grass-Fed Beef",
+        "description": "Premium-quality grass-fed beef, raised sustainably on our farm.",
+        "price": "$12.00 per lb",
+        "link": "https://yourfarmwebsite.com/products/beef",
+        "image": "/assets/images/beef.jpg",
+        "slug": "grass-fed-beef"
+    },
+    {
+        "title": "Organic Strawberries",
+        "description": "Sweet and juicy organic strawberries, picked fresh from our fields.",
+        "price": "$6.00 per pint",
+        "link": "https://yourfarmwebsite.com/products/strawberries",
+        "image": "/assets/images/strawberri.jpg",
+        "slug": "organic-strawberries"
+    },
+    {
+        "title": "Organic Zucchini",
+        "description": "Fresh organic zucchini, perfect for grilling, stir-frying, or baking.",
+        "price": "$1.50 per lb",
+        "link": "https://yourfarmwebsite.com/products/zucchini",
+        "image": "/assets/images/zucchini.jpg",
+        "slug": "organic-zucchini"
+    },
+    {
+        "title": "Organic Bell Peppers",
+        "description": "Crisp and colorful organic bell peppers, great for salads and cooking.",
+        "price": "$2.00 each",
+        "link": "https://yourfarmwebsite.com/products/bell-peppers",
+        "image": "/assets/images/bell-pepper.jpg",
+        "slug": "organic-bell-peppers"
+    },
+    {
+        "title": "Whole Wheat Bread",
+        "description": "Freshly baked whole wheat bread, made with organic ingredients.",
+        "price": "$4.50 per loaf",
+        "link": "https://yourfarmwebsite.com/products/bread",
+        "image": "/assets/images/bread.jpg",
+        "slug": "whole-wheat-bread"
+    },
+    {
+        "title": "Organic Apples",
+        "description": "Crisp and sweet organic apples, perfect for snacking or baking.",
+        "price": "$3.00 per lb",
+        "link": "https://yourfarmwebsite.com/products/apples",
+        "image": "/assets/images/apples.jpg",
+        "slug": "organic-apples"
+    },
+    {
+        "title": "Organic Broccoli",
+        "description": "Nutritious organic broccoli, rich in fiber and vitamins.",
+        "price": "$2.50 per bunch",
+        "link": "https://yourfarmwebsite.com/products/broccoli",
+        "image": "/assets/images/broccoli.jpg",
+        "slug": "organic-broccoli"
+    },
+    {
+        "title": "Herbal Tea Blend",
+        "description": "A calming herbal tea blend made with organic herbs from our farm.",
+        "price": "$8.00 per bag",
+        "link": "https://yourfarmwebsite.com/products/tea",
+        "image": "/assets/images/tea.jpg",
+        "slug": "herbal-tea-blend"
+    }
+]
+}
